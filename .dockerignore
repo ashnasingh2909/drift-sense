@@ -1,0 +1,7 @@
+data/
+data_benchmark/
+results/
+__pycache__/
+*.pyc
+.venv/
+.git/
