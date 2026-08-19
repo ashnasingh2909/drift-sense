@@ -366,16 +366,3 @@ python3 -m unittest discover -s tests -v
 
 ---
 
-<div align="center">
-
-### Contributing
-
-Fork → feature branch → commit → push → pull request
-
-### License
-
-MIT — see `LICENSE`
-
-<br>
-
-</div>
